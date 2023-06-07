@@ -7,3 +7,5 @@ testです。
 あーもええわ
 
 腹痛いわ！
+
+git commit amend
